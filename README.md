@@ -48,7 +48,7 @@ Expected Outcomes
 
 Faster and more accurate loan approvals using AI.✔ Improved fraud detection with Big Data techniques.✔ Enhanced loan trend insights via Tableau dashboards.✔ AI-powered automated loan summaries for better decision-making.
 
-Contributors
+<h2>Contributors<h2>
 
 Sai Venkat 
 Manohar
